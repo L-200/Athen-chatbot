@@ -71,7 +71,7 @@ print("do you want to take a history quiz?(please enter yes or no)")
 awnser_3 = input()
 if awnser_3 == ("yes"):
       history_score = 0
-      print("What country was Alexander, the great emperor of?(please choose the letter of your awnser)")
+      print("What country was Alexander, the great, emperor of?(please choose the letter of your awnser)")
       print("A: Greece")
       print("B: Egypt")
       print("C: England")
